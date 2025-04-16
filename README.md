@@ -39,29 +39,34 @@ Hi, I’m Sophia! I’m a front-end developer and a Computer Science student fro
 <details>
   <summary><strong>Grade Calculator</strong></summary>
 
-<img src="./images/Grade-Calculator-Preview.png" width="280" align="left" style="margin-right: 20px;" />
-
-A degree progress calculator for the Department of Informatics and Telecommunications of the UoA. Allows students to track their academic progress.
-
-**Technologies**: React, Tailwind CSS, JavaScript
-
-![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=progress)
-
-[View Project](https://github.com/sophiabanou/grade-calculator)
+  <div style="display: flex; align-items: center;">
+    <img src="./images/Grade-Calculator-Preview.png" width="280" style="margin-right: 20px;" />
+    <div>
+      <p>A degree progress calculator for the Department of Informatics and Telecommunications of the UoA. Allows students to track their academic progress.</p>
+      <p><strong>Technologies</strong>: React, Tailwind CSS, JavaScript</p>
+      <p>
+        ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=progress)
+      </p>
+      <p><a href="https://github.com/sophiabanou/grade-calculator">View Project</a></p>
+    </div>
+  </div>
 
 </details>
 
 <details>
   <summary><strong>PokéSpark</strong></summary>
 
-<img src="./images/PokeSpark-Preview.png" width="280" align="left" style="margin-right: 20px;" />
-
-A Pokédex web app that lets you search and view information about various Pokémon.
-
-**Technologies**: Astro
-
-![Design Phase](https://img.shields.io/badge/Status-Design%20Phase-blue?style=for-the-badge&logo=design)
-
-[View Project](https://github.com/sophiabanou/pokedex)
+  <div style="display: flex; align-items: center;">
+    <img src="./images/PokeSpark-Preview.png" width="280" style="margin-right: 20px;" />
+    <div>
+      <p>A Pokédex web app that lets you search and view information about various Pokémon.</p>
+      <p><strong>Technologies</strong>: Astro</p>
+      <p>
+        ![Design Phase](https://img.shields.io/badge/Status-Design%20Phase-blue?style=for-the-badge&logo=design)
+      </p>
+      <p><a href="https://github.com/sophiabanou/pokedex">View Project</a></p>
+    </div>
+  </div>
 
 </details>
+

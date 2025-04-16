@@ -39,7 +39,7 @@ Hi, I’m Sophia! I’m a front-end developer and a Computer Science student fro
 <details>
   <summary><strong>Grade Calculator</strong></summary>
 
-<img src="./images/Grade-Calculator-Preview.png" width="260" align="left" style="margin-right: 20px;" />
+<img src="./images/Grade-Calculator-Preview.png" width="280" align="left" style="margin-right: 20px;" />
 
 A degree progress calculator for the Department of Informatics and Telecommunications of the UoA. Allows students to track their academic progress.
 
@@ -54,7 +54,7 @@ A degree progress calculator for the Department of Informatics and Telecommunica
 <details>
   <summary><strong>PokéSpark</strong></summary>
 
-<img src="./images/PokeSpark-Preview.png" width="260" align="left" style="margin-right: 20px;" />
+<img src="./images/PokeSpark-Preview.png" width="280" align="left" style="margin-right: 20px;" />
 
 A Pokédex web app that lets you search and view information about various Pokémon.
 

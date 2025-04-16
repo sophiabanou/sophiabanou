@@ -29,7 +29,6 @@ Hi, I’m Sophia! I’m a front-end developer and a Computer Science student fro
   <img src="https://img.shields.io/badge/-astro-BC52EE?logo=astro&logoColor=white&style=for-the-badge" />&nbsp;
   <img src="https://img.shields.io/badge/-next.js-black?logo=next.js&logoColor=white&style=for-the-badge" />&nbsp;
   <img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />&nbsp;
-  <img src="https://img.shields.io/badge/-framer-05F?logo=framer&logoColor=white&style=for-the-badge" />&nbsp;
 </p>
 
 ---

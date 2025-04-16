@@ -39,8 +39,8 @@ Hi, I’m Sophia! I’m a front-end developer and a Computer Science student fro
 <details>
   <summary><strong>Grade Calculator</strong></summary>
 
-  <div style="display: flex; align-items: center;">
-    <img src="./images/Grade-Calculator-Preview.png" width="280" style="margin-right: 20px;" />
+  <div style="display: flex; align-items: flex-start;">
+    <img src="./images/Grade-Calculator-Preview.png" width="280" style="margin-right: 20px;"/>
     <div>
       <p>A degree progress calculator for the Department of Informatics and Telecommunications of the UoA. Allows students to track their academic progress.</p>
       <p><strong>Technologies</strong>: React, Tailwind CSS, JavaScript</p>
@@ -56,7 +56,7 @@ Hi, I’m Sophia! I’m a front-end developer and a Computer Science student fro
 <details>
   <summary><strong>PokéSpark</strong></summary>
 
-  <div style="display: flex; align-items: center;">
+  <div style="display: flex; align-items: flex-start;">
     <img src="./images/PokeSpark-Preview.png" width="280" style="margin-right: 20px;" />
     <div>
       <p>A Pokédex web app that lets you search and view information about various Pokémon.</p>
@@ -69,4 +69,5 @@ Hi, I’m Sophia! I’m a front-end developer and a Computer Science student fro
   </div>
 
 </details>
+
 

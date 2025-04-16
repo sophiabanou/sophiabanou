@@ -40,11 +40,11 @@ Hi, I’m Sophia! I’m a front-end developer and a Computer Science student fro
   <summary><strong>Grade Calculator</strong></summary>
 
   <img src="./images/Grade-Calculator-Preview.png" width="280" align="left" style="margin-right: 20px;" />
-  A degree progress calculator for the Department of Informatics and Telecommunications of the UoA. Allows students to track their academic progress.
+  A degree progress calculator for the Department of Informatics and Telecommunications of UoA. Allows students to track their academic progress.
   
   **Technologies**: React, Tailwind CSS, JavaScript
 
-![Finished](https://img.shields.io/badge/Status-Finished-green?style=for-the-badge&logo=progress)
+![Finished](https://img.shields.io/badge/Status-Finished-green?style=for-the-badge)
 
 [View Project](https://github.com/sophiabanou/grade-calculator)
 

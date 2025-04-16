@@ -44,9 +44,9 @@ Hi, I’m Sophia! I’m a front-end developer and a Computer Science student fro
   
   **Technologies**: React, Tailwind CSS, JavaScript
 
-  ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=progress)
+![Finished](https://img.shields.io/badge/Status-Finished-green?style=for-the-badge&logo=progress)
 
-  [View Project](https://github.com/sophiabanou/grade-calculator)
+[View Project](https://github.com/sophiabanou/grade-calculator)
 
 </details>
 
@@ -56,11 +56,10 @@ Hi, I’m Sophia! I’m a front-end developer and a Computer Science student fro
   <img src="./images/PokeSpark-Preview.png" width="280" align="left" style="margin-right: 20px;" />
   A Pokédex web app that lets you search and view information about various Pokémon.
 
-  **Technologies**: Astro
+**Technologies**: Astro
 
-  ![Design Phase](https://img.shields.io/badge/Status-Design%20Phase-blue?style=for-the-badge&logo=design)
+![Design Phase](https://img.shields.io/badge/Status-Design%20Phase-blue?style=for-the-badge&logo=design)
 
-  [View Project](https://github.com/sophiabanou/pokedex)
+[View Project](https://github.com/sophiabanou/pokedex)
 
 </details>
-

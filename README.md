@@ -58,7 +58,7 @@ Hi, I’m Sophia! I’m a front-end developer and a Computer Science student fro
 
 **Technologies**: Astro
 
-![Design Phase](https://img.shields.io/badge/Status-Design-blue?style=for-the-badge&logo=progress)
+![Design Phase](https://img.shields.io/badge/Status-Design%20Phase-blue?style=for-the-badge&logo=design)
 
 [View Project](https://github.com/sophiabanou/pokedex)
 

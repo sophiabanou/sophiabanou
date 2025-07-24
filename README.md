@@ -48,17 +48,3 @@ Hi, I’m Sophia! I’m a front-end developer and a Computer Science student fro
 [View Project](https://github.com/sophiabanou/grade-calculator)
 
 </details>
-
-<details>
-  <summary><strong>PokéSpark</strong></summary>
-
-  <img src="./images/PokeSpark-Preview.png" width="280" align="left" style="margin-right: 20px;" />
-  A Pokédex web app that lets you search and view information about various Pokémon.
-
-**Technologies**: Astro
-
-![Design Phase](https://img.shields.io/badge/Status-Design%20Phase-blue?style=for-the-badge&logo=design)
-
-[View Project](https://github.com/sophiabanou/pokedex)
-
-</details>
